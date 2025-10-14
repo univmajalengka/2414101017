@@ -7,6 +7,6 @@
 | Keterangan | Data |
 |-------------|------|
 | **Nama Lengkap** | Ade Sofian |
-| **NIM** | 2414101017 |
+| **NPM** | 2414101017 |
 | **Program Studi** | Informatika |
 | **Fakultas** | Teknik |
